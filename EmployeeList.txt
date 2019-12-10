@@ -1,0 +1,7 @@
+Employee's first name, Employee ID, Compensation type, monthly income:
+xyz 0 fixed 416.67
+Anna 2 fixed 1666.67
+David 1 fixed 1666.67
+GithubBoi 4 fixed 3387.58
+Halogen 3 fixed 8486.4
+JavaGuy 5 hourly 108326.4
